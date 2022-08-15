@@ -25,9 +25,6 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/Yuuusuuke/VincentAllio_CorrectModale">
-    <img src="./src/ressources/logo.jpg" alt="Logo" width="100" height="100">
-  </a>
 
 <h3 align="center">Modal component</h3>
 
