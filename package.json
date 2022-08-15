@@ -1,14 +1,14 @@
 {
   "name": "yuusuke_modale",
-  "version": "1.1.2",
-  "description": "",
+  "version": "1.1.3",
+  "description": "Create a simple modale displayed on the center of the screen with the text gived",
   "main": "index.tsx",
   "scripts": {
     "clean": "rm -rf dist",
     "build": "npm run clean && tsc && cp package.json README.md ./dist && cp ./modale/modale.css ./dist/modale"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["modale", "react", "typescript"],
+  "author": "Vincent Allio",
   "license": "ISC",
   "devDependencies": {
     "@types/react": "^18.0.15",
